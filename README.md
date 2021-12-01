@@ -2,7 +2,7 @@
 ## Welcome to my profile !
 ### Cybersecurity student and fullstack developper 
 
-◽ Dev => HTML, CSS, JS, PHP, C, PYTHON
+◽ Dev => HTML, CSS, JS, PHP, C, PYTHON, ...
 
 ◽ Network Administration
 
